@@ -16,5 +16,4 @@ Features Apps :
 - E-Wallet (for ticket transaction)
 - Data Collection (genre dan preferred language)
 
-
-![image](https://user-images.githubusercontent.com/28537749/95704334-af359580-0c7a-11eb-9ae4-0e652b04b4f0.png)![image](https://user-images.githubusercontent.com/28537749/95704337-b066c280-0c7a-11eb-819f-28a41c407a02.png)
+<img data-canonical-src="https://user-images.githubusercontent.com/28537749/95704334-af359580-0c7a-11eb-9ae4-0e652b04b4f0.png" width="200" height="400" />
